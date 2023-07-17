@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.logo img {
+  height: 32px; /* Adjust the height as per your logo's dimensions */
+  vertical-align: middle;
+}
+
+.ant-menu-dark.ant-menu-horizontal > .ant-menu-item-selected {
+  font-size: 30px;
+  font-weight: 500
+}
+
+.ant-layout-header {
+  background: #1677ff;
+}
+
+.ant-menu-dark {
+  background: #1677ff;
+}
+
+.faas h1 {
+  text-align: center;
+}
+
+.dropdown-label-component {
+  display: inline-flex;
+  padding: 15px;
+}
+
+.dropdown-label-component p {
+  margin-right: 15px;
+}
